@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MBA</Machine>
+    <WindowsUser>Amit</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>324E0F54FFD1F349D43CA466DA0E6ABC79BAE3C0FC2D863D5AFAE8F0C721DD1E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>546c259f-6ece-4324-a6d2-9d5ac9f5b7a7_1.0.0.4_neutral__bmpq2bgyk65gj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>546c259f-6ece-4324-a6d2-9d5ac9f5b7a7_bmpq2bgyk65gj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>546c259f-6ece-4324-a6d2-9d5ac9f5b7a7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Amit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.4</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-05T01:36:43.611</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-11-11T01:26:11.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2012-11-11T01:26:11.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2012-11-11T01:26:11.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2012-11-11T01:26:11.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\coffee.png">
+      <PackagePath>images\coffee.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-02T04:24:54.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\mashery-logo.png">
+      <PackagePath>images\mashery-logo.png</PackagePath>
+      <Modified>2012-11-11T09:02:28.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\images\mashery-logo.jpg">
+      <PackagePath>images\mashery-logo.jpg</PackagePath>
+      <Modified>2012-11-11T09:05:02.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-12-01T19:53:47.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-11-11T01:26:11.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\js\jquery-1.8.2.min.js">
+      <PackagePath>js\jquery-1.8.2.min.js</PackagePath>
+      <Modified>2012-11-11T03:25:51.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-11-11T01:26:11.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2012-11-11T01:26:11.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2012-11-11T01:26:11.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2012-11-11T02:33:44.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2012-11-11T01:26:11.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2012-11-11T01:26:11.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2012-11-11T08:46:50.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-11-11T03:29:20.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Amit\documents\visual studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-02T04:26:41.642</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

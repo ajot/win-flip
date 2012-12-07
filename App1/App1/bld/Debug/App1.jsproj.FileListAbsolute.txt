@@ -1,0 +1,13 @@
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bin\Debug\resources.pri
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bin\Debug\App1.build.appxrecipe
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bld\Debug\priconfig.xml
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bld\Debug\layout.resfiles
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bld\Debug\resources.resfiles
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bld\Debug\pri.resfiles
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bld\Debug\LanguageQualifiers.txt
+c:\users\amit\documents\visual studio 2012\Projects\App1\App1\bld\Debug\ProjectArchitectures.txt
+C:\Users\Amit\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\priconfig.xml.intermediate
+C:\Users\Amit\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\layout.resfiles.intermediate
+C:\Users\Amit\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\resources.resfiles.intermediate
+C:\Users\Amit\Documents\Visual Studio 2012\Projects\App1\App1\bld\Debug\pri.resfiles.intermediate
