@@ -1,7 +1,7 @@
 # What is Win-Flip
 ========
 
-Windows 8 app that uses [USA Today](http://developer.usatoday.com), [Rotten Tomatoes](http://developer.rottentomatoes.com) &amp; [Pearson](http://developer.pearson.com) APIs to browse latest news articles, movies and images in a really cool interface. Built using the magic of HTML/Javascript/CSS.
+You love that Metro style on Windows 8, don't you? Wouldn't it be super cool if you could get your daily dose of news/movie/beautiful images everyday on that interface? Well, here's WinFlip - a Windows 8 app that uses [USA Today](http://developer.usatoday.com), [Rotten Tomatoes](http://developer.rottentomatoes.com) &amp; [Pearson](http://developer.pearson.com) APIs to browse latest news articles, movies and images in a really cool interface. Built using the magic of HTML/Javascript/CSS.
 
 <img src='https://raw.github.com/ajotwani/win-flip/master/Screenshots/usa_today_main_med.png' />
 <img src='https://raw.github.com/ajotwani/win-flip/master/Screenshots/usa_today_detail_med.png' />
